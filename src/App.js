@@ -35,6 +35,7 @@ class App extends Component {
       <div className="App">
         
         <h1> Monsters Rolodex </h1>
+        <h2> by Hanysisko & Complete React 2022</h2>
 
         <SearchBox 
           placeholderprop='search monsters...'
